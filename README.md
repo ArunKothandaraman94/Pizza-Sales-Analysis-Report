@@ -12,11 +12,11 @@ This Power BI dashboard provides an in-depth analysis of pizza sales data from *
 
 ### 📍Page 1 - Summary View
 
-![Dashboard Overview](https://github.com/ArunKothandaraman94/Pizza-Sales-Analysis-Report/blob/main/Pizza%20Analysis%20Dashboard%20image.png)
+![Dashboard Page 1](https://github.com/ArunKothandaraman94/Pizza-Sales-Analysis-Report/blob/main/Pizza%20Analysis%20Report-Page-1.png)
 
 ### 📍Page 2 - Best & Worst Sellers
 
-![Best/Worst Sellers](https://github.com/ArunKothandaraman94/Pizza-Sales-Analysis-Report/blob/main/Pizza%20Anlaysis%20Page-2.png)
+![Dashboard Page 2](https://github.com/ArunKothandaraman94/Pizza-Sales-Analysis-Report/blob/main/Pizza%20Analysis%20Report-Page-2.png)
 
 ---
 
@@ -62,7 +62,7 @@ This Power BI dashboard provides an in-depth analysis of pizza sales data from *
 ```bash
 Pizza-Sales-Analysis-Report/
 │
-├── Pizza Analysis Dashboard image.png         # Page 1: Sales Summary
-├── Pizza Anlaysis Page-2.png                  # Page 2: Best/Worst Sellers
+├── Pizza Analysis Report-Page-1.png           # Page 1: Sales Summary
+├── Pizza Analysis Report-Page-2.png           # Page 2: Best/Worst Sellers
 ├── PizzaSales_Analysis_07142025.pbix          # (Optional) Power BI File
 └── README.md                                  # Project Documentation
